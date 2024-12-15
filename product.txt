@@ -1,0 +1,4 @@
+Fruits:
+apple
+strawberry
+cherry
